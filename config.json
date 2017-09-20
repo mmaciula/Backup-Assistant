@@ -1,0 +1,9 @@
+{
+  "gdrive_dir_id": "0B_fEBM-L1jb0eW51OG02bmdXR2M",
+  "gdrive_bin": "gdrive-linux-x64",
+  "directories_to_backup":
+          [
+              "/home/mariusz/Obrazy/"
+          ],
+  "clean_time": 604800
+}
